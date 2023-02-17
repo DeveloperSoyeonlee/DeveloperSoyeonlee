@@ -1,6 +1,6 @@
 
 # Hi, I'm LeeSoyeon :runner:
-- 안녕하세요, 주니어 웹개발자 이소연입니다.:seedling:
+- **안녕하세요, 주니어 웹개발자 이소연입니다.:seedling:**
 
 ### 　　
 ###
