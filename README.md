@@ -8,9 +8,7 @@
 
 #### :point_right:Connect With Me
  　 <a href="mailto:developersoyeon@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=mailto:developersoyeon@naver.com"/></a>
-<a href="https://github.com/ssoyen1"><img src="http://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&link=https://github.com/ssoyen1"/></a>
   - Email : developersoyeon@naver.com
-  - 기술 깃허브 : https://github.com/ssoyen1
 
 ### 
 
